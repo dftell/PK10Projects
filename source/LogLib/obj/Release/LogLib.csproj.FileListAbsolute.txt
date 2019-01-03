@@ -1,0 +1,6 @@
+C:\个人文件夹\策略交易终端开发\PK10Tracer\LogLib\bin\Release\LogLib.dll
+C:\个人文件夹\策略交易终端开发\PK10Tracer\LogLib\bin\Release\LogLib.pdb
+C:\project\PK10Tracer\LogLib.dll
+C:\project\PK10Tracer\LogLib.pdb
+C:\个人文件夹\策略交易终端开发\PK10Tracer\LogLib\obj\Release\LogLib.dll
+C:\个人文件夹\策略交易终端开发\PK10Tracer\LogLib\obj\Release\LogLib.pdb

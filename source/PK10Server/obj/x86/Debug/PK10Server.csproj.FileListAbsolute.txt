@@ -1,0 +1,14 @@
+C:\个人文件夹\策略交易终端开发\PK10Tracer\PK10Server\obj\x86\Debug\PK10Server.csprojResolveAssemblyReference.cache
+C:\个人文件夹\策略交易终端开发\PK10Tracer\PK10Server\obj\x86\Debug\PK10Server.frm_NewStrag.resources
+C:\个人文件夹\策略交易终端开发\PK10Tracer\PK10Server\obj\x86\Debug\PK10Server.frm_StragManager.resources
+C:\个人文件夹\策略交易终端开发\PK10Tracer\PK10Server\obj\x86\Debug\PK10Server.frm_StragMonitor.resources
+C:\个人文件夹\策略交易终端开发\PK10Tracer\PK10Server\obj\x86\Debug\PK10Server.frm_StragPlanSetting.resources
+C:\个人文件夹\策略交易终端开发\PK10Tracer\PK10Server\obj\x86\Debug\PK10Server.MainForm.resources
+C:\个人文件夹\策略交易终端开发\PK10Tracer\PK10Server\obj\x86\Debug\PK10Server.Properties.Resources.resources
+C:\个人文件夹\策略交易终端开发\PK10Tracer\PK10Server\obj\x86\Debug\PK10Server.csproj.GenerateResource.Cache
+C:\project\PK10Tracer\PK10Server.exe.config
+C:\project\PK10Tracer\PK10Server.exe
+C:\project\PK10Tracer\PK10Server.pdb
+C:\个人文件夹\策略交易终端开发\PK10Tracer\PK10Server\obj\x86\Debug\PK10Server.exe
+C:\个人文件夹\策略交易终端开发\PK10Tracer\PK10Server\obj\x86\Debug\PK10Server.pdb
+C:\个人文件夹\策略交易终端开发\PK10Tracer\PK10Server\obj\x86\Debug\PK10Server.frm_CommDBObjectsSetting.resources
